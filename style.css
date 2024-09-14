@@ -1,0 +1,141 @@
+.sl-3 img{
+   height: 80vh !important;
+}
+.ic-de{
+    font-size: 25px ;
+}
+.hd-h{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+.card-group .card{
+    border: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.card-group{
+    /* border-bottom: 1px solid black; */
+    padding-bottom: 70px;
+}
+.progresss{
+    height: 35vh;
+    padding: 0px;
+    background-color: white;
+    display: flex;
+    width: 100%;
+    gap: 40px;
+    justify-content: center;
+    border-bottom: 1px solid black;
+
+}
+.progresss .right{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+}
+.progresss .right .progress{
+    height: 3vh;
+}
+.lc-co{
+    display: flex;
+    gap: 60px;
+    padding: 40px;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+
+}
+.con-lele{
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    background-color: #f1f1f1;
+}
+.lc-co .left{
+    width: 50%;
+}
+.co{
+    display: flex;
+    flex-direction: column;
+}
+.co label{
+    display: flex;
+    gap:10px;
+    margin-top: 20px !important;
+}
+.co input{
+    border-radius: 5px;
+    gap: 10px;
+    border:none;
+    height: 40px;
+    margin-top: 10px;
+}
+.lc-co .right{
+    display: flex;
+    flex-direction: column;
+    width: 50%;    
+}
+.co button{
+    margin: 20px;
+    padding: 10px 0px 10px 0px; 
+    width: 30%;
+    justify-content: center;
+    transform: translate(170px);
+    border-radius: 10px;
+    background-color: red;
+    border: none;
+    color: white;
+    
+}
+.fq-s{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+.fq-s{
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: black;
+}
+.footer .ft-con{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items:start;
+    padding: 20px;
+}
+.footer .middle ul li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+.footer .udar{
+    display: flex;
+    flex-direction: column;
+}
+.ft-end{
+    color: black;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+
+}
+.nv-b{
+    padding: 20px 50px 20px 50px;
+    background-color: rgba(47, 124, 107, 0.685) !important;
+}
+.nv-b a{
+    color: white !important;
+}
+.nv-b button{
+    color: white;
+    border:1px solid white;
+}
